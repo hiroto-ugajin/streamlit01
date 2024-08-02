@@ -26,7 +26,7 @@ bestLike, 'は素晴らしいですね❤️'
 
 
 st.markdown('<h3>welcome to my page!</h3>', unsafe_allow_html=True)
-st.image('lady.png', width=150, caption="me by faceapp.")
+st.image('myphoto.png', width=150 )
 
 
 st.markdown('<h3>マークダウンの練習です</h3>', unsafe_allow_html=True)
